@@ -39,4 +39,9 @@
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* ✨
+### 🐍 Watch my contribution graph get eaten by a snake!
+![snake gif](https://github.com/dularamihiran/dularamihiran/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+✨ *"Code is like humor. When you have to explain it, it's bad." – Cory House* ✨
